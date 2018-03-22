@@ -1,0 +1,19 @@
+{
+  "name": "callbag-couchdb",
+  "version": "0.0.0",
+  "description": "A Callbag sink for CouchDB",
+  "author": "Jamen Marz <jamenmarz@gmail.com>",
+  "main": "callbag-couchdb.js",
+  "keywords": [
+    "callbag",
+    "couchdb"
+  ],
+  "dependencies": {
+    "@jamen/query-string": "0.0.0",
+    "isomorphic-fetch": "^2.2.1",
+    "nano": "^6.4.3"
+  },
+  "devDependencies": {
+    "callbag-basics": "^3.0.0"
+  }
+}
